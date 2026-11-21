@@ -1,0 +1,8 @@
+dist/
+site.tar.gz
+worker/
+.openai/
+node_modules/
+.env
+.env.*
+*.log
